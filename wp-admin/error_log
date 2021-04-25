@@ -1,0 +1,388 @@
+[15-Feb-2021 18:15:40 UTC] Error Table 'proinbes_wp778.wp3a_litespeed_img_optm' doesn't exist de la base de datos de WordPress para la consulta SELECT src,post_id FROM `wp3a_litespeed_img_optm` WHERE post_id = 5 realizada por File_Upload_Upgrader->cleanup, wp_delete_attachment, do_action('delete_attachment'), WP_Hook->do_action, WP_Hook->apply_filters, LiteSpeed\Media->delete_attachment, LiteSpeed\Img_Optm->reset_row
+[07-Apr-2021 20:36:02 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:36:02 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => eromero69@gmail.com
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:36:02 UTC] ================ EOF FloForms email error [1] ================
+[07-Apr-2021 20:40:06 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:40:06 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => eromero69@gmail.com
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:40:06 UTC] ================ EOF FloForms email error [1] ================
+[07-Apr-2021 20:40:09 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:40:09 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => eromero69@gmail.com
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:40:09 UTC] ================ EOF FloForms email error [1] ================
+[07-Apr-2021 20:40:29 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:40:29 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => contacto@proin.best
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:40:29 UTC] ================ EOF FloForms email error [1] ================
+[07-Apr-2021 20:41:29 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:41:29 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => contacto@proin.best
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:41:29 UTC] ================ EOF FloForms email error [1] ================
+[07-Apr-2021 20:42:48 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:42:48 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => eromero69@gmail.com
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:42:48 UTC] ================ EOF FloForms email error [1] ================
+[07-Apr-2021 20:43:53 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:43:53 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => eromero69@gmail.com
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:43:53 UTC] ================ EOF FloForms email error [1] ================
+[07-Apr-2021 20:43:57 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[07-Apr-2021 20:43:57 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => eromero69@gmail.com
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[07-Apr-2021 20:43:57 UTC] ================ EOF FloForms email error [1] ================
+[08-Apr-2021 01:06:11 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[08-Apr-2021 01:06:12 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => eromero69@gmail.com
+                        )
+
+                    [subject] => Flo Forms Test Email
+                    [message] => This is a test email from Flo Forms settings
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Apr-2021 01:06:12 UTC] ================ EOF FloForms email error [1] ================

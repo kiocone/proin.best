@@ -1,0 +1,114 @@
+[08-Apr-2021 01:07:47 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[08-Apr-2021 01:07:47 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => asdf@gmail.com
+                        )
+
+                    [subject] => Mensaje enviado desde su formulario de contacto.
+                    [message] => Hello admin, 
+
+You are being contacted via Proinbest: 
+
+Name:     safsdfafa
+Email:    asdf@gmail.com
+Subject:  Mensaje enviado desde su formulario de contacto.
+Date:     abril 8, 2021 @ 1:07 am
+
+Message: 
+
+kladfklasjfksa
+
+
+                    [headers] => Array
+                        (
+                            [X-Mailer] => Simple Basic Contact Form
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Apr-2021 01:07:47 UTC] ================ EOF FloForms email error [1] ================
+[08-Apr-2021 01:07:47 UTC] ================ BOF FloForms email error [1]: (Read the details below) ================
+[08-Apr-2021 01:07:47 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => admin@proin.best
+                        )
+
+                    [subject] => Mensaje enviado desde su formulario de contacto.
+                    [message] => Hello admin, 
+
+You are being contacted via Proinbest: 
+
+Name:     safsdfafa
+Email:    asdf@gmail.com
+Subject:  Mensaje enviado desde su formulario de contacto.
+Date:     abril 8, 2021 @ 1:07 am
+
+Message: 
+
+kladfklasjfksa
+
+
+                    [headers] => Array
+                        (
+                            [X-Mailer] => Simple Basic Contact Form
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+[08-Apr-2021 01:07:47 UTC] ================ EOF FloForms email error [1] ================
